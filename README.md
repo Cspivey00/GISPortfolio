@@ -12,3 +12,7 @@ I am taking this class because I am interested in continue learning strong funda
 In this class I would like to focus on specific skillsets such as developing network analysis, refreshing my skills for creating base layer maps that can quickly be applied to other projects, creating routing systems, applying open source data to maps, and furthering my understanding of creating processes that can be applied to several different projects. Finally, I am interested in learning about free software that can be used for organizations that may not want to purchase ESRI. 
 
 I am particularly interested to see how our class projects on COVID19 turn out and hope that they contribute to existing research. 
+
+# __Portfolio__
+
+Below are links to my different lab assignments as well as final project for our GIS class. 
